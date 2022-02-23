@@ -1,0 +1,8 @@
+.newClass {
+    width: px;
+    height: 110px;
+}
+
+.shadow {
+    box-shadow: 10px 15px #c2c2c2;
+}
